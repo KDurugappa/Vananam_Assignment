@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Vananam_Assignment/static/css/main.99fcef3d.css",
+    "main.js": "/Vananam_Assignment/static/js/main.ae93dc6d.js",
+    "static/css/999.d4ca0115.chunk.css": "/Vananam_Assignment/static/css/999.d4ca0115.chunk.css",
+    "static/js/999.b1114e04.chunk.js": "/Vananam_Assignment/static/js/999.b1114e04.chunk.js",
+    "static/js/453.905a4bfc.chunk.js": "/Vananam_Assignment/static/js/453.905a4bfc.chunk.js",
+    "index.html": "/Vananam_Assignment/index.html",
+    "main.99fcef3d.css.map": "/Vananam_Assignment/static/css/main.99fcef3d.css.map",
+    "main.ae93dc6d.js.map": "/Vananam_Assignment/static/js/main.ae93dc6d.js.map",
+    "999.d4ca0115.chunk.css.map": "/Vananam_Assignment/static/css/999.d4ca0115.chunk.css.map",
+    "999.b1114e04.chunk.js.map": "/Vananam_Assignment/static/js/999.b1114e04.chunk.js.map",
+    "453.905a4bfc.chunk.js.map": "/Vananam_Assignment/static/js/453.905a4bfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99fcef3d.css",
+    "static/js/main.ae93dc6d.js"
+  ]
+}
