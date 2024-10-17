@@ -4,7 +4,7 @@
     padding: 16px;
     text-align: center;
     margin: 16px;
-    flex: 1 1 calc(22% - 25px);
+    flex: 1 1 calc(24% - 25px);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s;
   }
@@ -14,7 +14,7 @@
   }
   
   .product-image {
-    width: 60%;
+    width: 70px;
     height: auto;
     border-radius: 4px;
   }
