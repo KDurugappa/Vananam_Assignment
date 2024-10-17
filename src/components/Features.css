@@ -1,0 +1,20 @@
+/* src/components/Features.css */
+
+.features {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.feature-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.feature-item {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 200px;
+}
